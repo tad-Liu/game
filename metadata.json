@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Minesweeper",
+  "description": "A modern, AI-assisted Minesweeper game built with React and Tailwind. Features intelligent hint system powered by Google Gemini.",
+  "requestFramePermissions": []
+}
